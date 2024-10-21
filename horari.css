@@ -1,0 +1,44 @@
+h2 {
+    text-align: center;
+    font-family: Verdana;
+    color: #0000ff;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    font-family: Verdana;
+  }
+
+th {
+    padding: 30px;
+    font-size: 25px;
+    background-color: #84fe84;
+}
+
+caption {
+    color: #efc931;
+}
+
+.modulo1 { background-color: #ffc0cb; }
+.modulo2 { background-color: #fff8dc; }
+.modulo3 { background-color: #5f9ea0; }
+.modulo4 { background-color: #6495ed; }
+.modulo5 { background-color: #ffd700; }
+.modulo6 { background-color: #ff7f50; }
+.modulo7 { background-color: #dc143c; }
+.modulo8 { background-color: #ffff00; }
+
+#descans {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
